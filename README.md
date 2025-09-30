@@ -10,8 +10,9 @@ a. Apply Gestalt principles to enhance mobile and web layout design. b. Incorpor
 ## Output:
 <img width="985" height="801" alt="image" src="https://github.com/user-attachments/assets/12449b70-32ba-49c0-be27-51814831ee36" />
 <img width="810" height="1013" alt="image" src="https://github.com/user-attachments/assets/edf83b7d-2f8f-42eb-aeac-e6f9e97e4ab7" />
-![WhatsApp Image 2025-09-30 at 13 52 11_b2421723](https://github.com/user-attachments/assets/b009ffe5-da23-4369-850a-9dff950e1397)
-![WhatsApp Image 2025-09-30 at 13 52 41_e415ef04](https://github.com/user-attachments/assets/a6c19780-05e7-4b7f-8107-489952117e45)
+<img width="1627" height="812" alt="image" src="https://github.com/user-attachments/assets/bb2cc84e-e75e-4d46-aa09-24847780ec4d" />
+<img width="1553" height="895" alt="image" src="https://github.com/user-attachments/assets/c8656f1a-2718-4b5a-9b08-0eb85e02a198" />
+
 
 
 ## Result:
